@@ -164,7 +164,7 @@ MIT License - see LICENSE file for details.
 
 ## Contact
 
-[Your Name] - [your.email@example.com]
+Michael Ogungbe || mailmichaelogungbe@gmail.com
 
 ---
 
